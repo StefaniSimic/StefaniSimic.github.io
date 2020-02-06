@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Vesti</title>
+  <link></link>
+  <description>Najnovije vesti i dogadjaji vezani za vinski bar "Stefani"</description>
+  <item>
+    <title>Popust</title>
+    <link></link>
+    <description>Ostvarite popust od 15% kupovinom dve flase bilo kog crvenog vina</description>
+  </item>
+  <item>
+    <title>Poklon</title>
+    <link></link>
+    <description>Ukoliko želite da obradujete dragu osobu to možete uraditi kupovinom vinske kartice uz koju dobijate 
+				bonus od 500 dinara.
+	</description>
+  </item>
+</channel>
+
+</rss>
